@@ -14,13 +14,13 @@
 
 ## **프로젝트**
 
-### [📌**SOMOMO (소소한 모임 모여라)**](https://github.com/doitchu93/somomo)
+### [:peach:**SOMOMO (소소한 모임 모여라)**](https://github.com/doitchu93/somomo)
 - 역할 : 소모임 채팅방 기능 담당
 - 사용 기술 : Java 8, Spring, Oracle, JavaScript, HTML, CSS, Git / GitHub
 - 기획, 설계 2주 / 개발 : 3주
 - 설명 : 가벼운 소모임부터 주제를 정한 그룹 모임까지 다 모아 놓은 SNS 웹사이트
 
-### 📌**Petmily**
+### 🐕**Petmily**
 - 역할 : 메인 페이지, 회원가입, 로그인 기능 담당
 - 사용 기술 : Java 8, Oracle, JavaScript, HTML, CSS
 - 기획, 설계 : 2주 / 개발 : 3주
